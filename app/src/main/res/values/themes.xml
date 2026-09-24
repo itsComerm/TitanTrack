@@ -1,8 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.TitanTrack" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/azul_primario</item>
+        <item name="colorPrimaryDark">@color/azul_oscuro</item>
+        <item name="colorAccent">@color/negro</item>
+        <item name="android:statusBarColor">@color/azul_oscuro</item>
+        <item name="android:windowBackground">@color/blanco</item>
     </style>
 
     <style name="Theme.TitanTrack" parent="Base.Theme.TitanTrack" />
