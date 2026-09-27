@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">TitanTrack</string>
 
-    <!-- Login -->
+    <!--    Login -->
     <string name="login_titulo">Bienvenido a TitanTrack</string>
     <string name="login_email_hint">Correo electrónico</string>
     <string name="login_password_hint">Contraseña</string>
@@ -17,4 +17,10 @@
     <string name="registro_confirmar_password_hint">Confirmar contraseña</string>
     <string name="registro_boton">Registrarse</string>
     <string name="registro_enlace_login">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <!-- Dashboard - Navegación -->
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_entrenos">Entrenos</string>
+    <string name="nav_progreso">Progreso</string>
+    <string name="nav_perfil">Perfil</string>
 </resources>
