@@ -23,4 +23,6 @@
     <string name="nav_entrenos">Entrenos</string>
     <string name="nav_progreso">Progreso</string>
     <string name="nav_perfil">Perfil</string>
+    <string name="entrenos_titulo">Entrenos</string>
+    <string name="entrenos_subtitulo">Explora los ejercicios y elige tu próxima rutina.</string>
 </resources>
